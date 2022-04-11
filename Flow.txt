@@ -1,0 +1,9 @@
+App.js : route for pages
+./components/Admin/Dashboard/Dashboard.js : Final FE for dash board
+	- DashboardBody.js : 
+
+
+
+
+
+.history/public/index.css : Css for all system
